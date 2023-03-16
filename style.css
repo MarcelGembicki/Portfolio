@@ -10,6 +10,19 @@
    background-color: beige;}
 
 
-.navcolor {
-   color: antiquewhite;
+.navbar {
+   background-color: antiquewhite;
+   
+
 }
+
+
+
+.outset{
+   border-style: outset;
+     background-color: rgb(39, 0, 43);
+     color: gray;
+
+
+
+ 
